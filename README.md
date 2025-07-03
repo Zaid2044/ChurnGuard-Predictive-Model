@@ -1,6 +1,6 @@
 # ChurnGuard: A Predictive Model for Customer Retention
 
-**Author:** MOHAMMED ZAID AHMED
+**Author:** MOHAMMED ZAID AHMED  
 **Repository:** [ChurnGuard-Predictive-Model](https://github.com/Zaid2044/ChurnGuard-Predictive-Model)
 
 ChurnGuard is a data-driven solution designed to proactively identify customers at risk of canceling their subscription ("churning"). This project showcases a full end-to-end machine learning workflow — from data cleaning and exploratory analysis to model training and performance evaluation — all inside a single Jupyter Notebook.
